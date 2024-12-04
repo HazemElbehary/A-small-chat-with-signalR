@@ -1,0 +1,14 @@
+1. Add SignalR to wwwroot.lib "Add SignalR to FrontEnd"
+2. Install SignalR.Cleint.Core
+3. configure SignalR "Add to DI Container"
+4. Message "Model"
+	Id, UserName, Text
+5. Create DbContext
+6. ChatController
+7. Index "Index View Of ChatController"
+8. ChatHub
+	Send
+9. Map the SignalR hub in the middleware pipeline
+10. Chat.js
+11. JoinGroup
+12. SendToGroup
